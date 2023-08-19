@@ -1,2 +1,2 @@
 # Mathematics-with-python
-Solving mathematics formulas and algorithms using python
+Solving mathematics formulas , algo's and machine learning using python
